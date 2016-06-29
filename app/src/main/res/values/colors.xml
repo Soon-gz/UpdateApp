@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="transparent_black">#CF000000</color>
+    <color name="black_20p">#33000000</color>
+    <color name="primary">#02A8F3</color>
+    <color name="primary_dark">#0187c3</color>
+    <color name="accent">@color/primary</color>
+    <color name="background_dark">#012B3D</color>
+    <color name="base_msg_color">#ff999999</color>
+    <color name="base_bg">#ffeeeeee</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="text_light_black">#5d5d5d</color>
+
+    <color name="text_black">#272727</color>
+
+    <color name="text_black1">#100a0a</color>
+
+    <color name="text_black2">#181816</color>
+
+
+
+    <color name="text_grey">#939393</color>
+
+    <color name="background_grey">#f2f2f2</color>
+
+    <color name="divide_grey">#d0d0d0</color>
+
+
+    <!--CircularProgressBar颜色设置-->
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <color name="separator">#E1E1E1</color>
+
+    <color name="sr_color_primary">#FF4E3E7F</color>
+    <color name="sr_color_primary_dark">#FF4E3E7F</color>
+    <color name="sr_window_background">#FFFEFEFE</color>
+
+    <color name="colorPrimary">#f46444</color>
+
+    <!--    分段选择器的颜色-->
+    <color name="default_ascv_selected_color">#0099CC</color>
+    <color name="default_ascv_unselected_color">#FFFFFF</color>
+
+    <color name="ese_green">#27c698</color>
+    <color name="ese_green_l">#21c698</color>
+    <color name="ese_orange">#FA5746</color>
+    <color name="ese_green_s">#0f766e</color>
+    <color name="ese_white">#f2f2f2</color>
+    <color name="ese_grey_h">#898989</color>
+
+    <color name="baby_orange">#FA5746</color>
+    <color name="baby_grey">#D4D4D4</color>
+
+
+    <color name="photopicker_background">#181819</color>
+
+    <color name="line_bg">#CDCDCD</color>
+</resources>
